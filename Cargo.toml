@@ -1,0 +1,9 @@
+[package]
+name = "ms_destreamer"
+version = "0.1.0"
+authors = ["Fong Yoong <https://github.com/FongYoong>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
