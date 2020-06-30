@@ -4,7 +4,7 @@
 * This build only caters to Windows or Linux distributions. Check out the [original source](https://github.com/snobu/destreamer) if you want to target it for other platforms.
 * The only addition to the original is a simple Rust-compiled executable which asks for the input URL. It is compiled from ```main.rs``` located in the ```/src``` folder. ffmpeg has been added and the Node.js dependencies of destreamer have been built so it can be used by anyone out of the box without hassle.
 
-##How to use destreamer?
+## How to use destreamer?
 
 1. Clone this repository with git
 ```bash
