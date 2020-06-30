@@ -15,14 +15,16 @@ fn main() {
         Command::new("destreamer.cmd")
                 .arg("-i")
                 .arg(s)
-                .arg("--format mp4")
+                .arg("--format")
+                .arg("mp4")
                 .spawn()
                 .expect("failed to execute process")
     } else {
         Command::new("./destreamer.sh")
                 .arg("-i")
                 .arg(s)
-                .arg("--format mp4")
+                .arg("--format")
+                .arg("mp4")
                 .spawn()
                 .expect("failed to execute process")
     };
