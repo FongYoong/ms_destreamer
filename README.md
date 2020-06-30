@@ -38,5 +38,5 @@ Press ```Enter``` after inserting the link.
 
 6. The downloaded video can be found in the ```/video``` folder.
 
-![title](https://github.com/FongYoong/ms_destreamer/tree/master/images/6.jpg)
+![title](https://github.com/FongYoong/ms_destreamer/blob/master/images/6.jpg)
 ***
