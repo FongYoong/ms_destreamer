@@ -26,7 +26,7 @@ Press ```Enter``` after inserting the link.
 ![title](https://github.com/FongYoong/ms_destreamer/blob/master/images/3.jpg)
 ***
 
-4. If it your first time or your previous auth-token has expired, you will be redirected to Microsoft's login page.
+4. If it is your first login or your previous auth-token has expired, you will be redirected to Microsoft's login page.
 
 ![title](https://github.com/FongYoong/ms_destreamer/blob/master/images/4.jpg)
 ***
